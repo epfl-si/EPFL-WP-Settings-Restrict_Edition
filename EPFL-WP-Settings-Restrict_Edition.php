@@ -6,6 +6,7 @@
  * Author: Emmanuel Jaep
  * Author URI: hhttps://people.epfl.ch/emmanuel.jaep?lang=en
  * Version: 0.1.0
+ * License: Copyright (c) 2017 Ecole Polytechnique Federale de Lausanne, Switzerland
  */
 
 
